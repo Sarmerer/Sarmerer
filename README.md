@@ -4,3 +4,9 @@
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/4pr96u9ctor5bhw7ws24aou0n?si=o3_vGR1jQgy1lyk7wq0CJQ)
 [![](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/sobuck)
 [![](https://komarev.com/ghpvc/?username=Sarmerer&style=flat&color=blueviolet&label=Views)](https://github.com/Sarmerer)
+
+## Stats
+[![](https://github-readme-stats.vercel.app/api?username=sarmerer&show_icons=true&count_private=true&hide_title=true)](stats)
+
+## Most Used Languages
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmerer&layout=compact&hide_title=true)](languages)
