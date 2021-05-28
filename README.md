@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sarmer)
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/4pr96u9ctor5bhw7ws24aou0n?si=o3_vGR1jQgy1lyk7wq0CJQ)
 [![](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/sobuck)
+[![](	https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/sarmerer)
 [![](https://komarev.com/ghpvc/?username=Sarmerer&style=flat&color=blueviolet&label=Views)](https://github.com/Sarmerer)
 
 ## Stats
