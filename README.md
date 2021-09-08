@@ -1,3 +1,4 @@
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0151e5038ef20988ef)
 [![](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/253207207821180928)
 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarmerer@gmail.com)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sarmer)
@@ -7,7 +8,7 @@
 [![](https://komarev.com/ghpvc/?username=Sarmerer&style=flat&color=blueviolet&label=Views)](https://github.com/Sarmerer)
 
 ## Stats
-[![](https://github-readme-stats.vercel.app/api?username=sarmerer&show_icons=true&count_private=true&hide_title=true)](stats)
+[![](https://github-readme-stats.vercel.app/api?username=sarmerer&show_icons=true&count_private=true&hide_title=true&theme=dark)](stats)
 
 ## Most Used Languages
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmerer&layout=compact&hide_title=true)](languages)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmerer&layout=compact&hide_title=true&theme=dark)](languages)
